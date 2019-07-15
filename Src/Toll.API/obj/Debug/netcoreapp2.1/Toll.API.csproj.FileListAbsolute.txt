@@ -1,0 +1,42 @@
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders\Src\Toll.API\bin\Debug\netcoreapp2.1\Toll.API.deps.json
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders\Src\Toll.API\bin\Debug\netcoreapp2.1\Toll.API.runtimeconfig.json
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders\Src\Toll.API\bin\Debug\netcoreapp2.1\Toll.API.runtimeconfig.dev.json
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders\Src\Toll.API\bin\Debug\netcoreapp2.1\Toll.API.dll
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders\Src\Toll.API\bin\Debug\netcoreapp2.1\Toll.API.pdb
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.csprojAssemblyReference.cache
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.csproj.CoreCompileInputs.cache
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.RazorAssemblyInfo.cache
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.RazorAssemblyInfo.cs
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.AssemblyInfoInputs.cache
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.AssemblyInfo.cs
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.RazorTargetAssemblyInfo.cache
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.dll
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.pdb
+C:\Users\GREECOS\Desktop\New folder (6)\IdentityServer4ExternalProviders - Copy\Src\Toll.API\bin\Debug\netcoreapp2.1\Toll.API.deps.json
+C:\Users\GREECOS\Desktop\New folder (6)\IdentityServer4ExternalProviders - Copy\Src\Toll.API\bin\Debug\netcoreapp2.1\Toll.API.runtimeconfig.json
+C:\Users\GREECOS\Desktop\New folder (6)\IdentityServer4ExternalProviders - Copy\Src\Toll.API\bin\Debug\netcoreapp2.1\Toll.API.runtimeconfig.dev.json
+C:\Users\GREECOS\Desktop\New folder (6)\IdentityServer4ExternalProviders - Copy\Src\Toll.API\bin\Debug\netcoreapp2.1\Toll.API.dll
+C:\Users\GREECOS\Desktop\New folder (6)\IdentityServer4ExternalProviders - Copy\Src\Toll.API\bin\Debug\netcoreapp2.1\Toll.API.pdb
+C:\Users\GREECOS\Desktop\New folder (6)\IdentityServer4ExternalProviders - Copy\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.csprojAssemblyReference.cache
+C:\Users\GREECOS\Desktop\New folder (6)\IdentityServer4ExternalProviders - Copy\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.csproj.CoreCompileInputs.cache
+C:\Users\GREECOS\Desktop\New folder (6)\IdentityServer4ExternalProviders - Copy\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.RazorAssemblyInfo.cache
+C:\Users\GREECOS\Desktop\New folder (6)\IdentityServer4ExternalProviders - Copy\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.RazorAssemblyInfo.cs
+C:\Users\GREECOS\Desktop\New folder (6)\IdentityServer4ExternalProviders - Copy\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.AssemblyInfoInputs.cache
+C:\Users\GREECOS\Desktop\New folder (6)\IdentityServer4ExternalProviders - Copy\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.AssemblyInfo.cs
+C:\Users\GREECOS\Desktop\New folder (6)\IdentityServer4ExternalProviders - Copy\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.RazorTargetAssemblyInfo.cache
+C:\Users\GREECOS\Desktop\New folder (6)\IdentityServer4ExternalProviders - Copy\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.dll
+C:\Users\GREECOS\Desktop\New folder (6)\IdentityServer4ExternalProviders - Copy\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.pdb
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders - Copy\Src\Toll.API\bin\Debug\netcoreapp2.1\Toll.API.deps.json
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders - Copy\Src\Toll.API\bin\Debug\netcoreapp2.1\Toll.API.runtimeconfig.json
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders - Copy\Src\Toll.API\bin\Debug\netcoreapp2.1\Toll.API.runtimeconfig.dev.json
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders - Copy\Src\Toll.API\bin\Debug\netcoreapp2.1\Toll.API.dll
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders - Copy\Src\Toll.API\bin\Debug\netcoreapp2.1\Toll.API.pdb
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders - Copy\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.csprojAssemblyReference.cache
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders - Copy\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.csproj.CoreCompileInputs.cache
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders - Copy\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.RazorAssemblyInfo.cache
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders - Copy\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.RazorAssemblyInfo.cs
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders - Copy\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.AssemblyInfoInputs.cache
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders - Copy\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.AssemblyInfo.cs
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders - Copy\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.RazorTargetAssemblyInfo.cache
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders - Copy\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.dll
+C:\Users\GREECOS\Desktop\IdentityServer4ExternalProviders - Copy\Src\Toll.API\obj\Debug\netcoreapp2.1\Toll.API.pdb
